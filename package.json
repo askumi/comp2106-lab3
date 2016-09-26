@@ -1,0 +1,12 @@
+{
+  "name": "lab3",
+  "version": "1.0.0",
+  "description": "Lab 3 for adv. web dev class",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+	"start": "nodemon server.js"
+  },
+  "author": "Issac O'Hara",
+  "license": "ISC"
+}
